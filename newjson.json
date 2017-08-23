@@ -1,0 +1,48 @@
+ [{
+                "id": "1",
+                "question": "Which of the following is first-line drug therapy for status epilepticus?",
+                "explanation": "Status epilepticus is a medical emergency and should be treated with IV benzodiazepines, such as lorazepam. Phenobarbital is given if there is no response to benzodiazepines.Neurology\/Clinical Therapeutics",
+                "options": ["Phenytoin (Dilantin)", "Lorazepam (Ativan)", "Gabapentin (Neurontin)", "Phenobarbital (Luminal)", "Valproic acid (Depakote)"],
+                "question_type": "1",
+                "option_type": "1",
+                "correct_answers": ["Lorazepam (Ativan)"],
+                "reference": "9 pg. 1381"
+            }, {
+                "id": "2",
+                "question": "Which of the following is the most common bacterial pathogen causing acute sinusitis?",
+                "explanation": "Acute bacterial sinusitis is most commonly caused by Streptococcus pneumoniae, followed by Haemophilus influenzae and Moraxella catarrhalis.EENT\/Scientific Concepts",
+                "options": ["Moraxella catarrhalis", "Staphylococcus aureus", "Haemophilus influenzae", "Streptococcus pneumoniae", "Pseudomonas aeruginosa"],
+                "question_type": "1",
+                "option_type": "1",
+                "correct_answers": ["Streptococcus pneumoniae"],
+                "reference": "2 pg. 774"
+            }, {
+                "id": "3",
+                "question": "Which of the following is the initial step in the management of the patient with newly diagnosed diabetes mellitus type 2?",
+                "explanation": "The first step in the treatment of patients who have been newly diagnosed with diabetes mellitus type 2 is making lifestyle modifications, including diet control. Medications are recommended after failure to control blood sugar with diet.Endocrine\/Clinical Intervention",
+                "options": ["Biguanide", "Biguanide", "Sulfonylurea", "Long-acting insulin", "Short-acting insulin"],
+                "question_type": "1",
+                "option_type": "1",
+                "correct_answers": ["Biguanide"],
+                "reference": "4 pg. 1497"
+            }, {
+                "id": "4",
+                "question": "Which of the following should be monitored in patients utilizing albuterol on a regular basis?",
+                "explanation": "Long-term use or high doses of albuterol may lead to hypokalemia. Potassium level should be monitored on a regular basis.Pulmonary\/Clinical Therapeutics",
+                "options": ["White blood cell count", "Creatinine", "Potassium", "Sodium", "AST"],
+                "question_type": "1",
+                "option_type": "1",
+                "correct_answers": ["Potassium"],
+                "reference": "9 pg. 1639"
+            }, {
+                "id": "5",
+                "question": "Which of the following is a common adverse effect of chronic haloperidol (Haldol) use?",
+                "explanation": "Haloperidol can cause extrapyramidal side effects such as tardive dyskinesia. Orthostatic hypotension may also occur.Psychiatry\/Clinical Therapeutics",
+                "options": ["Aplastic anemia", "Tardive dyskinesia", "Cardiac arrhythmia", "Pseudotumor cerebri", "Shortness of breath"],
+                "question_type": "1",
+                "option_type": "1",
+                "correct_answers": ["Tardive dyskinesia"],
+                "reference": "14 pg. 582"
+            }
+        ]
+    
